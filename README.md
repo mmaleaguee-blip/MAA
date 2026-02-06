@@ -193,7 +193,7 @@ const teams = ["HAMA STAR","AHMED88","MEER"];
 /* MATCHES */
 const matches = [
   {home:"HAMA STAR", away:"AHMED88", time:"12:30", scoreHome:3, scoreAway:2},
-  {home:"MEER", away:"HAMA STAR", time:"14:00", scoreHome:6, scoreAway:3},
+  {home:"MEER", away:"HAMA STAR", time:"14:00", scoreHome:3, scoreAway:6},
   {home:"AHMED88", away:"MEER", time:"16:15", scoreHome:5, scoreAway:4},
 
   {home:"AHMED88", away:"MEER", time:"16:15", scoreHome:5, scoreAway:4},
