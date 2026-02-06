@@ -207,6 +207,10 @@ const matches = [
   {home:"HAMA STAR", away:"AHMED88", time:"12:30", scoreHome:5, scoreAway:0},
   
   {home:"HAMA STAR", away:"AHMED88", time:"12:30", scoreHome:2, scoreAway:7},
+  
+  {home:"AHMED88", away:"MEER", time:"16:15", scoreHome:4, scoreAway:2},
+  
+  {home:"AHMED88", away:"MEER", time:"16:15", scoreHome:3, scoreAway:1},
 
   /* NEXT MATCHES (ADDED ONLY) */
   {home:"MEER", away:"HAMA STAR", time:"21:15", scoreHome:"Next Match", scoreAway:""},
@@ -216,11 +220,12 @@ const matches = [
 
 /* STANDINGS */
 const standings = [
+   {team:"AHMED88",p:10,pts:19},
    {team:"HAMA STAR",p:8,pts:16},
 
-  {team:"AHMED88",p:8,pts:13},
+ 
 
-  {team:"MEER",p:6,pts:3}
+  {team:"MEER",p:8,pts:3}
 ];
 
 /* LOAD LEAGUE LOGO */
