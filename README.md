@@ -205,6 +205,8 @@ const matches = [
   {home:"AHMED88", away:"HAMA STAR", time:"20:30", scoreHome:2, scoreAway:2},
   {home:"HAMA STAR", away:"AHMED88", time:"12:30", scoreHome:2, scoreAway:3},
   {home:"HAMA STAR", away:"AHMED88", time:"12:30", scoreHome:5, scoreAway:0},
+  
+  {home:"HAMA STAR", away:"AHMED88", time:"12:30", scoreHome:2, scoreAway:7},
 
   /* NEXT MATCHES (ADDED ONLY) */
   {home:"MEER", away:"HAMA STAR", time:"21:15", scoreHome:"Next Match", scoreAway:""},
@@ -214,9 +216,9 @@ const matches = [
 
 /* STANDINGS */
 const standings = [
-   {team:"HAMA STAR",p:7,pts:16},
+   {team:"HAMA STAR",p:8,pts:16},
 
-  {team:"AHMED88",p:7,pts:10},
+  {team:"AHMED88",p:8,pts:13},
 
   {team:"MEER",p:6,pts:3}
 ];
