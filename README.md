@@ -176,7 +176,7 @@ const LEAGUE_LOGO_JPG = "ma.jpg";
 /* CLUB LOGOS (SMALL & ROUND) */
 const CLUB_LOGOS_JPG = {
   "HAMA STAR": "rs.jpg",
-  "AHMED88": "bv.webp",
+  "AHMED88": "bv.jpg",
   "MEER": "ns.jpg"
 };
 
