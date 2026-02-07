@@ -1,4 +1,4 @@
-
+hama star win the league
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -211,21 +211,22 @@ const matches = [
   {home:"AHMED88", away:"MEER", time:"16:15", scoreHome:4, scoreAway:2},
   
   {home:"AHMED88", away:"MEER", time:"16:15", scoreHome:3, scoreAway:1},
+  
+  {home:"HAMA STAR", away:"MEER", time:"18:00", scoreHome:4, scoreAway:1},
+  {home:"HAMA STAR", away:"MEER", time:"18:00", scoreHome:2, scoreAway:2},
 
-  /* NEXT MATCHES (ADDED ONLY) */
-  {home:"MEER", away:"HAMA STAR", time:"21:15", scoreHome:"Next Match", scoreAway:""},
-  {home:"AHMED88", away:"MEER", time:"22:30", scoreHome:"Next Match", scoreAway:""},
-  {home:"HAMA STAR", away:"AHMED88", time:"23:45", scoreHome:"Next Match", scoreAway:""}
+
+
 ];
 
 /* STANDINGS */
 const standings = [
+     {team:"HAMA STAR",p:10,pts:20},
    {team:"AHMED88",p:10,pts:19},
-   {team:"HAMA STAR",p:8,pts:16},
 
- 
 
-  {team:"MEER",p:8,pts:3}
+
+  {team:"MEER",p:10,pts:4}
 ];
 
 /* LOAD LEAGUE LOGO */
